@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "category": "Debt Management",
+    "title": "Snowball Method",
+    "icon": "snowflake",
+    "description": "Focus on paying the smallest debt first to gain momentum.",
+    "read_more": "https://www.debtmanagement.com/snowball-method",
+    "details": "The snowball method involves paying off the smallest debt first, regardless of interest rate."
+  },
+  {
+    "id": "2",
+    "category": "Debt Management",
+    "title": "Avalanche Method",
+    "icon": "mountain",
+    "description": "Pay off high-interest debts first to save on interest.",
+    "read_more": "https://www.debtmanagement.com/avalanche-method",
+    "details": "The avalanche method focuses on paying off the debt with the highest interest rate first."
+  },
+  {
+    "id": "3",
+    "category": "Saving Tips",
+    "title": "Save 20% Rule",
+    "icon": "piggy-bank",
+    "description": "Try saving at least 20% of your income every month.",
+    "read_more": "https://www.savingtips.com/save-20-percent-rule",
+    "details": "A common financial rule is to save at least 20% of your monthly income."
+  },
+  {
+    "id": "4",
+    "category": "Income Growth",
+    "title": "Freelancing",
+    "icon": "briefcase",
+    "description": "Leverage your skills on freelance platforms for additional income.",
+    "read_more": "https://www.incomegrowth.com/freelancing-tips",
+    "details": "Freelancing platforms like Upwork and Fiverr allow you to monetize your skills."
+  },
+  {
+    "id": "5",
+    "category": "Investment",
+    "title": "Investing in Stocks",
+    "icon": "chart-line",
+    "description": "Investing in stocks can help grow your wealth over time.",
+    "read_more": "https://www.investing.com/stocks-beginner-guide",
+    "details": "Diversify your portfolio and consider long-term investments for the best results."
+  },
+  {
+    "id": "6",
+    "category": "Debt Consolidation",
+    "title": "Debt Consolidation Loan",
+    "icon": "file-invoice-dollar",
+    "description": "A debt consolidation loan can simplify multiple debts into one payment.",
+    "read_more": "https://www.debtconsolidation.com/loans",
+    "details": "This method combines multiple debts into a single manageable payment."
+  },
+  {
+    "id": "7",
+    "category": "Debt Management",
+    "title": "Balance Transfer Credit Cards",
+    "icon": "credit-card",
+    "description": "Transfer high-interest debt to a card with a lower interest rate.",
+    "read_more": "https://www.debtmanagement.com/balance-transfer",
+    "details": "Balance transfer cards offer low or 0% interest rates for an initial period."
+  },
+  {
+    "id": "8",
+    "category": "Saving Tips",
+    "title": "Emergency Fund",
+    "icon": "umbrella",
+    "description": "Build an emergency fund to cover unexpected expenses.",
+    "read_more": "https://www.savingtips.com/emergency-fund",
+    "details": "Aim for 3-6 months of living expenses in a high-yield savings account."
+  },
+  {
+    "id": "9",
+    "category": "Income Growth",
+    "title": "Online Courses",
+    "icon": "laptop-code",
+    "description": "Invest in online courses to learn high-income skills.",
+    "read_more": "https://www.incomegrowth.com/online-courses",
+    "details": "Platforms like Coursera and Udemy offer courses in coding, marketing, and more."
+  },
+  {
+    "id": "10",
+    "category": "Debt Management",
+    "title": "Debt Management Plan",
+    "icon": "file-contract",
+    "description": "Work with a credit counseling agency to create a debt management plan.",
+    "read_more": "https://www.debtmanagement.com/debt-management-plan",
+    "details": "A debt management plan can consolidate and lower monthly payments."
+  },
+  {
+    "id": "11",
+    "category": "Saving Tips",
+    "title": "Automate Savings",
+    "icon": "cogs",
+    "description": "Set up automatic transfers to a savings account.",
+    "read_more": "https://www.savingtips.com/automate-savings",
+    "details": "Automating savings helps you consistently save without thinking about it."
+  },
+  {
+    "id": "12",
+    "category": "Investment",
+    "title": "Real Estate Investment",
+    "icon": "building",
+    "description": "Consider investing in real estate to diversify your portfolio.",
+    "read_more": "https://www.investing.com/real-estate",
+    "details": "Real estate can provide long-term returns and rental income."
+  },
+  {
+    "id": "13",
+    "category": "Income Growth",
+    "title": "Start a Side Business",
+    "icon": "lightbulb",
+    "description": "Turn a hobby or interest into a side business for extra income.",
+    "read_more": "https://www.incomegrowth.com/start-business",
+    "details": "Identify a niche and use platforms like Etsy or Shopify to sell products."
+  },
+  {
+    "id": "14",
+    "category": "Debt Management",
+    "title": "Negotiate with Creditors",
+    "icon": "handshake",
+    "description": "Negotiate with creditors for lower interest rates or payment plans.",
+    "read_more": "https://www.debtmanagement.com/creditor-negotiation",
+    "details": "Many creditors are open to negotiation, especially in cases of financial hardship."
+  },
+  {
+    "id": "15",
+    "category": "Saving Tips",
+    "title": "Cut Unnecessary Subscriptions",
+    "icon": "scissors",
+    "description": "Review your monthly subscriptions and cancel those you no longer use.",
+    "read_more": "https://www.savingtips.com/cut-subscriptions",
+    "details": "Streaming services, magazines, and memberships can add up quickly."
+  },
+  {
+    "id": "16",
+    "category": "Investment",
+    "title": "Invest in Index Funds",
+    "icon": "chart-bar",
+    "description": "Index funds offer diversified, low-cost exposure to the stock market.",
+    "read_more": "https://www.investing.com/index-funds",
+    "details": "They track the performance of a market index like the S&P 500."
+  },
+  {
+    "id": "17",
+    "category": "Debt Management",
+    "title": "Debt Snowflake Method",
+    "icon": "snowflake",
+    "description": "Make small extra payments when you have extra money.",
+    "read_more": "https://www.debtmanagement.com/snowflake-method",
+    "details": "Every little bit helps to reduce debt faster."
+  },
+  {
+    "id": "18",
+    "category": "Income Growth",
+    "title": "Network for Job Opportunities",
+    "icon": "user-friends",
+    "description": "Use your network to discover new job opportunities and salary increases.",
+    "read_more": "https://www.incomegrowth.com/networking",
+    "details": "Networking can open doors to higher-paying positions."
+  },
+  {
+    "id": "19",
+    "category": "Saving Tips",
+    "title": "Buy in Bulk",
+    "icon": "shopping-cart",
+    "description": "Buying in bulk can save money on frequently used household items.",
+    "read_more": "https://www.savingtips.com/buy-in-bulk",
+    "details": "Non-perishables like toilet paper, detergent, and canned goods are great for bulk buying."
+  },
+  {
+    "id": "20",
+    "category": "Investment",
+    "title": "Cryptocurrency Investment",
+    "icon": "bitcoin",
+    "description": "Explore cryptocurrency investment for high-risk, high-reward potential.",
+    "read_more": "https://www.investing.com/cryptocurrency",
+    "details": "Cryptocurrencies like Bitcoin and Ethereum can provide big gains but come with significant risk."
+  },
+  {
+    "id": "21",
+    "category": "Budgeting",
+    "title": "50/30/20 Rule",
+    "icon": "balance-scale",
+    "description": "Allocate 50% to needs, 30% to wants, and 20% to savings.",
+    "read_more": "https://www.budgeting.com/50-30-20-rule",
+    "details": "This budgeting method helps you balance spending and saving effectively."
+  },
+  {
+    "id": "22",
+    "category": "Income Growth",
+    "title": "Passive Income Streams",
+    "icon": "money-bill-wave",
+    "description": "Create passive income through investments or royalties.",
+    "read_more": "https://www.incomegrowth.com/passive-income",
+    "details": "Examples include rental properties, dividend stocks, and online courses."
+  },
+  {
+    "id": "23",
+    "category": "Debt Management",
+    "title": "Credit Counseling",
+    "icon": "comments-dollar",
+    "description": "Seek professional advice to manage and reduce your debts.",
+    "read_more": "https://www.debtmanagement.com/credit-counseling",
+    "details": "Credit counselors can negotiate with creditors on your behalf."
+  },
+  {
+    "id": "24",
+    "category": "Saving Tips",
+    "title": "Use Cashback Apps",
+    "icon": "mobile-alt",
+    "description": "Earn cashback on purchases using specialized apps.",
+    "read_more": "https://www.savingtips.com/cashback-apps",
+    "details": "Apps like Rakuten and Ibotta offer cashback for shopping through their platforms."
+  },
+  {
+    "id": "25",
+    "category": "Investment",
+    "title": "Peer-to-Peer Lending",
+    "icon": "hand-holding-usd",
+    "description": "Invest in peer loans for potential higher returns.",
+    "read_more": "https://www.investing.com/peer-to-peer-lending",
+    "details": "Platforms like LendingClub allow you to lend money to individuals or businesses."
+  },
+  {
+    "id": "26",
+    "category": "Income Growth",
+    "title": "Negotiating Salary",
+    "icon": "comments",
+    "description": "Negotiate your salary to reflect your value and contributions.",
+    "read_more": "https://www.incomegrowth.com/salary-negotiation",
+    "details": "Research industry standards and prepare to discuss your achievements."
+  },
+  {
+    "id": "27",
+    "category": "Debt Management",
+    "title": "Debt Settlement",
+    "icon": "handshake",
+    "description": "Settle debts for less than you owe with creditor agreement.",
+    "read_more": "https://www.debtmanagement.com/debt-settlement",
+    "details": "Debt settlement can impact your credit score but reduce the total amount owed."
+  },
+  {
+    "id": "28",
+    "category": "Saving Tips",
+    "title": "Meal Planning",
+    "icon": "utensils",
+    "description": "Plan meals ahead to save money on groceries and eating out.",
+    "read_more": "https://www.savingtips.com/meal-planning",
+    "details": "Creating a meal plan reduces impulse buying and food waste."
+  },
+  {
+    "id": "29",
+    "category": "Investment",
+    "title": "Robo-Advisors",
+    "icon": "robot",
+    "description": "Use robo-advisors for automated, low-cost investing.",
+    "read_more": "https://www.investing.com/robo-advisors",
+    "details": "Services like Betterment and Wealthfront offer portfolio management with minimal fees."
+  },
+  {
+    "id": "30",
+    "category": "Income Growth",
+    "title": "Affiliate Marketing",
+    "icon": "bullhorn",
+    "description": "Earn commissions by promoting products online.",
+    "read_more": "https://www.incomegrowth.com/affiliate-marketing",
+    "details": "Join affiliate programs and promote products through blogs or social media."
+  },
+  {
+    "id": "31",
+    "category": "Debt Management",
+    "title": "Refinance Loans",
+    "icon": "sync-alt",
+    "description": "Refinance loans to secure lower interest rates.",
+    "read_more": "https://www.debtmanagement.com/refinance-loans",
+    "details": "Refinancing can reduce monthly payments and total interest paid."
+  },
+  {
+    "id": "32",
+    "category": "Saving Tips",
+    "title": "Energy Efficiency",
+    "icon": "lightbulb",
+    "description": "Reduce utility bills by improving energy efficiency at home.",
+    "read_more": "https://www.savingtips.com/energy-efficiency",
+    "details": "Use LED bulbs, unplug devices, and consider energy-efficient appliances."
+  },
+  {
+    "id": "33",
+    "category": "Investment",
+    "title": "Diversify Investments",
+    "icon": "th-large",
+    "description": "Spread investments across various asset classes.",
+    "read_more": "https://www.investing.com/diversification",
+    "details": "Diversification reduces risk by not putting all your eggs in one basket."
+  },
+  {
+    "id": "34",
+    "category": "Income Growth",
+    "title": "Rent Out Extra Space",
+    "icon": "home",
+    "description": "Earn income by renting out unused space.",
+    "read_more": "https://www.incomegrowth.com/rent-space",
+    "details": "Platforms like Airbnb allow you to rent rooms or entire properties."
+  },
+  {
+    "id": "35",
+    "category": "Budgeting",
+    "title": "Use Budgeting Apps",
+    "icon": "calculator",
+    "description": "Track your expenses using budgeting apps.",
+    "read_more": "https://www.budgeting.com/budget-apps",
+    "details": "Apps like Mint and YNAB help you monitor spending and stay on budget."
+  },
+  {
+    "id": "36",
+    "category": "Debt Management",
+    "title": "Avoid New Debt",
+    "icon": "ban",
+    "description": "Refrain from taking on new debt while paying off existing debt.",
+    "read_more": "https://www.debtmanagement.com/avoid-new-debt",
+    "details": "Focus on reducing current debt before making new credit purchases."
+  },
+  {
+    "id": "37",
+    "category": "Saving Tips",
+    "title": "Generic Brands",
+    "icon": "tags",
+    "description": "Opt for generic brands to save money on everyday items.",
+    "read_more": "https://www.savingtips.com/generic-brands",
+    "details": "Generic products often offer the same quality at a lower price."
+  },
+  {
+    "id": "38",
+    "category": "Investment",
+    "title": "High-Yield Savings Accounts",
+    "icon": "piggy-bank",
+    "description": "Earn more interest with high-yield savings accounts.",
+    "read_more": "https://www.investing.com/high-yield-savings",
+    "details": "Online banks often offer higher interest rates than traditional banks."
+  },
+  {
+    "id": "39",
+    "category": "Income Growth",
+    "title": "Sell Unused Items",
+    "icon": "dollar-sign",
+    "description": "Make extra money by selling items you no longer need.",
+    "read_more": "https://www.incomegrowth.com/sell-items",
+    "details": "Use platforms like eBay, Craigslist, or Facebook Marketplace."
+  },
+  {
+    "id": "40",
+    "category": "Budgeting",
+    "title": "Zero-Based Budgeting",
+    "icon": "balance-scale",
+    "description": "Allocate every dollar to a specific purpose.",
+    "read_more": "https://www.budgeting.com/zero-based-budgeting",
+    "details": "Ensure your income minus expenses equals zero for better control."
+  },
+  {
+    "id": "41",
+    "category": "Debt Management",
+    "title": "Use Windfalls Wisely",
+    "icon": "gift",
+    "description": "Apply unexpected money toward debt repayment.",
+    "read_more": "https://www.debtmanagement.com/windfalls",
+    "details": "Tax refunds, bonuses, or gifts can accelerate debt payoff."
+  },
+  {
+    "id": "42",
+    "category": "Saving Tips",
+    "title": "Set Financial Goals",
+    "icon": "bullseye",
+    "description": "Define clear savings goals to stay motivated.",
+    "read_more": "https://www.savingtips.com/financial-goals",
+    "details": "Goals provide direction and help measure progress."
+  },
+  {
+    "id": "43",
+    "category": "Investment",
+    "title": "Education Savings Plans",
+    "icon": "graduation-cap",
+    "description": "Save for education expenses with tax-advantaged accounts.",
+    "read_more": "https://www.investing.com/education-savings",
+    "details": "529 plans offer tax benefits for saving for college."
+  },
+  {
+    "id": "44",
+    "category": "Income Growth",
+    "title": "Overtime and Extra Shifts",
+    "icon": "clock",
+    "description": "Increase income by working additional hours.",
+    "read_more": "https://www.incomegrowth.com/overtime",
+    "details": "If available, extra hours can boost your paycheck."
+  },
+  {
+    "id": "45",
+    "category": "Budgeting",
+    "title": "Envelope System",
+    "icon": "envelope",
+    "description": "Use cash envelopes for different spending categories.",
+    "read_more": "https://www.budgeting.com/envelope-system",
+    "details": "Helps control spending by limiting cash to budgeted amounts."
+  },
+  {
+    "id": "46",
+    "category": "Debt Management",
+    "title": "Avoid Payday Loans",
+    "icon": "exclamation-triangle",
+    "description": "Steer clear of high-interest payday loans.",
+    "read_more": "https://www.debtmanagement.com/payday-loans",
+    "details": "These loans have exorbitant fees and can trap you in debt."
+  },
+  {
+    "id": "47",
+    "category": "Saving Tips",
+    "title": "DIY Projects",
+    "icon": "tools",
+    "description": "Save money by doing projects yourself.",
+    "read_more": "https://www.savingtips.com/diy-projects",
+    "details": "Learn new skills and avoid labor costs."
+  },
+  {
+    "id": "48",
+    "category": "Investment",
+    "title": "Employee Stock Options",
+    "icon": "briefcase",
+    "description": "Take advantage of stock options offered by your employer.",
+    "read_more": "https://www.investing.com/employee-stock-options",
+    "details": "Can be a valuable part of your compensation package."
+  },
+  {
+    "id": "49",
+    "category": "Income Growth",
+    "title": "Ride-Sharing or Delivery",
+    "icon": "car",
+    "description": "Earn extra income by driving for ride-sharing or delivery services.",
+    "read_more": "https://www.incomegrowth.com/ride-sharing",
+    "details": "Services like Uber, Lyft, or DoorDash offer flexible earning opportunities."
+  },
+  {
+    "id": "50",
+    "category": "Budgeting",
+    "title": "Review and Adjust Regularly",
+    "icon": "sync-alt",
+    "description": "Regularly review your budget and adjust as needed.",
+    "read_more": "https://www.budgeting.com/review-budget",
+    "details": "Life changes, and so should your budget to reflect current circumstances."
+  }
+]
