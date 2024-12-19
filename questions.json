@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "category": "Financial Situation",
+    "question": "What is your total monthly income (after taxes)?",
+    "type": "number"
+  },
+  {
+    "id": 2,
+    "category": "Financial Situation",
+    "question": "What is your total debt amount?",
+    "type": "number"
+  },
+  {
+    "id": 3,
+    "category": "Financial Situation",
+    "question": "What are your fixed monthly expenses (rent, utilities, groceries, etc.)?",
+    "type": "number"
+  },
+  {
+    "id": 4,
+    "category": "Debts",
+    "question": "What types of debt do you have (credit cards, student loans, personal loans, mortgage, car loan, etc.)?",
+    "type": "text"
+  },
+  {
+    "id": 5,
+    "category": "Debts",
+    "question": "For each debt, can you provide the total balance, minimum monthly payment, and interest rate?",
+    "type": "text"
+  },
+  {
+    "id": 6,
+    "category": "Assets and Savings",
+    "question": "Do you have any savings or emergency funds? How much do you have saved?",
+    "type": "number"
+  },
+  {
+    "id": 7,
+    "category": "Debt Repayment Capacity",
+    "question": "Are you currently contributing to savings or investment accounts while in debt?",
+    "type": "boolean"
+  },
+  {
+    "id": 8,
+    "category": "Debt Repayment Capacity",
+    "question": "Do you prefer to pay off smaller debts first (debt snowball method) or focus on high-interest debts (debt avalanche method)?",
+    "type": "text"
+  },
+  {
+    "id": 9,
+    "category": "Debt-Reduction Strategies",
+    "question": "Have you considered debt consolidation? If so, what options are you exploring?",
+    "type": "text"
+  },
+  {
+    "id": 10,
+    "category": "Skills and Knowledge",
+    "question": "What skills do you have that could potentially increase your income (e.g., writing, coding, design)?",
+    "type": "text"
+  },
+  {
+    "id": 11,
+    "category": "Skills and Knowledge",
+    "question": "Are you open to freelancing or picking up side gigs to earn extra income?",
+    "type": "boolean"
+  },
+  {
+    "id": 12,
+    "category": "Income Growth Opportunities",
+    "question": "Are there opportunities for overtime, promotions, or pay raises in your current job?",
+    "type": "boolean"
+  },
+  {
+    "id": 13,
+    "category": "Personal Interests and Hobbies",
+    "question": "Do you have any hobbies or personal interests that could be monetized?",
+    "type": "text"
+  },
+  {
+  "id": 14,
+  "question": "On a scale from 1 to 10, how badly do you want to be debt-free?",
+  "type": "ratio",
+  "category": "Motivation",
+  "minValue": 1,
+  "maxValue": 10,
+  "step": 1
+},
+  {
+    "id": 15,
+    "category": "Financial Situation",
+    "question": "What are your variable expenses (entertainment, dining out, shopping, etc.)?",
+    "type": "number"
+  }
+
+]
